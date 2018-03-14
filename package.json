@@ -20,7 +20,6 @@
     "url": "https://github.com/rt2zz/react-native-contacts/issues"
   },
   "homepage": "https://github.com/rt2zz/react-native-contacts",
-  "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
